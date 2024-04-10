@@ -20,7 +20,6 @@ class WeightedGraph {
       }
     }
   
-    // Optional: You can add more methods for graph operations as needed
   
     printGraph() {
       for (let i = 0; i < this.vertices; i++) {
